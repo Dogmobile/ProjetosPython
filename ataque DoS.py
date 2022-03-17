@@ -1,8 +1,7 @@
 #pip install scapy
 #baixar a bibloteca Scapy.all
 
-from scapy import   
-
+from scapy.all import
 
 #IP ATIVO
 
